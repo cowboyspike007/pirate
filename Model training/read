@@ -1,0 +1,2 @@
+Neural Network Model which was later trained on MURA dataset
+model.h5 file is located inside static in app
